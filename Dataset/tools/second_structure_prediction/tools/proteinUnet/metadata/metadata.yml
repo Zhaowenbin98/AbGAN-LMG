@@ -1,0 +1,17 @@
+metadata_version: 1
+name: ProteinUnet – Efficient Sequence-Based Prediction of Protein Secondary Structures
+description: ProteinUnet – Efficient Sequence-Based Prediction of Protein Secondary Structures
+authors:
+- name: Krzysztof Kotowski
+  affiliations:
+  - name: Silesian University of Technology
+- name: Tomasz Smolarczyk
+  affiliations:
+  - name: Silesian University of Technology
+- name: Irena Roterman-Konieczna
+  affiliations:
+  - name: Jagiellonian University, Krakow
+- name: Katarzyna Stapor
+  affiliations:
+  - name: Silesian University of Technology
+corresponding_contributor: {}
